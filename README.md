@@ -8,3 +8,4 @@ jieer
 abs
 za hui shi 
 ju gui wag
+da yi xiao xiang
